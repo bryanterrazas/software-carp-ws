@@ -1,5 +1,7 @@
-broccoli
 flour
 eggs
 sugar
 milk
+butter
+chocolate chips
+cacao powder
