@@ -12,3 +12,5 @@ new branch change
 i'm changing to see the effects
 not on the master branch but the new branch
 
+
+here's another change to commit again on this new branch
